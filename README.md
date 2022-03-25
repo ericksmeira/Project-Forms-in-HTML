@@ -22,7 +22,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="#">
         <img src="./assets/perfil-git.gif" width="100px;" alt="Foto do Érick"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Érick Meira</b>
         </sub>
       </a>
     </td>
